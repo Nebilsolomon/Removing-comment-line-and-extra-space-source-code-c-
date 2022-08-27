@@ -1,0 +1,1 @@
+# Removing-comment-line-and-extra-space-source-code-c-
